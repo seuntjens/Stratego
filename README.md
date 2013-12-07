@@ -1,0 +1,4 @@
+Stratego
+========
+
+Stratego software engineering
